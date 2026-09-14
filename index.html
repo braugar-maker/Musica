@@ -319,7 +319,7 @@ function romano(n){var r='',t=[[10,'X'],[9,'IX'],[5,'V'],[4,'IV'],[1,'I']];for(v
 var PLAY='<span class="mg-play"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M4 2l14 8-14 8z"/></svg></span>';
 function item(n,f){var tem=!!f.mp3;var cls=tem?'mg-item mg-toca':'mg-item mg-sem';var a=' data-id="'+esc(f.id)+'" data-titulo="'+esc(f.titulo)+'" data-quem="'+esc(f.quem)+'" data-grupo="'+esc(f.grupo)+'" data-pagina="'+esc(f.pagina)+'"';
  if(f.soundcloud)a+=' data-sc="'+esc(f.soundcloud)+'"';if(f.youtube)a+=' data-yt="'+esc(f.youtube)+'"';if(f.spotify)a+=' data-sp="'+esc(f.spotify)+'"';if(tem)a+=' data-mp3="'+esc(f.mp3)+'"';
- var th='<span class="mg-thumb mg-disco"><img src="'+esc(f.capa)+'" alt="" loading="lazy">'+(tem?PLAY:'')+'</span>';
+ var th='<span class="mg-thumb mg-disco">'+(f.capa?'<img src="'+esc(f.capa)+'" alt="" loading="lazy">':'Sem capa')+(tem?PLAY:'')+'</span>';
  var fora=[];if(f.soundcloud)fora.push('<a href="'+esc(f.soundcloud)+'" target="_blank" rel="noopener">SoundCloud</a>');if(f.youtube)fora.push('<a href="'+esc(f.youtube)+'" target="_blank" rel="noopener">YouTube</a>');if(f.spotify)fora.push('<a href="'+esc(f.spotify)+'" target="_blank" rel="noopener">Spotify</a>');
  var meta=(tem?(f.ano+' · '+f.duracao):String(f.ano))+(fora.length?'<br>'+fora.join(' · '):'');
  return '<li><div class="'+cls+'"'+a+' aria-current="false"><span class="mg-num">'+romano(n)+'</span>'+th+'<span class="mg-item-txt"><span class="mg-item-t"><a href="'+esc(f.pagina)+'">'+esc(f.titulo)+'</a></span><span class="mg-item-d">'+esc(f.genero)+' · '+esc(f.descricao)+'</span></span><span class="mg-meta">'+meta+'</span></div></li>';}

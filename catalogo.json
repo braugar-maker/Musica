@@ -411,12 +411,12 @@
    "grupo": "Braulio",
    "ano": 2015,
    "genero": "Single",
-   "descricao": "Single de 2015, nas plataformas de streaming; o clipe está em Vídeos.",
+   "descricao": "Single de 2015, nas plataformas de streaming.",
    "pagina": "https://brauliogarcia.com.br/musica/",
    "soundcloud": "https://soundcloud.com/braulio/seduzir-se",
    "youtube": null,
    "spotify": "https://open.spotify.com/album/58OJoFaIOYwcsLOorsMJQ1",
-   "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-seduzir-se.png",
+   "capa": null,
    "mp3": "faixas/seduzir-se.mp3",
    "duracao": "4:44"
   },
@@ -432,7 +432,7 @@
    "soundcloud": "https://soundcloud.com/braulio/dosmirantes",
    "youtube": "https://www.youtube.com/watch?v=rsLLH1O7Ric",
    "spotify": "https://open.spotify.com/album/7ppGEXqrhVppghYlvbpNRP",
-   "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-tornadog.png",
+   "capa": null,
    "mp3": null,
    "duracao": null
   },
