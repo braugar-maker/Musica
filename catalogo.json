@@ -145,8 +145,8 @@
    "youtube": null,
    "spotify": null,
    "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-lupo-silvo.png",
-   "mp3": null,
-   "duracao": null
+   "mp3": "faixas/lupo-silvo.mp3",
+   "duracao": "1:42"
   },
   {
    "id": "a-number-that-may-know-a-man",
@@ -161,8 +161,8 @@
    "youtube": null,
    "spotify": null,
    "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-a-number-that-may-know-a-man.png",
-   "mp3": null,
-   "duracao": null
+   "mp3": "faixas/a-number-that-may-know-a-man.mp3",
+   "duracao": "3:47"
   },
   {
    "id": "o-numero-e-o-espaco",
@@ -177,8 +177,8 @@
    "youtube": "https://www.youtube.com/watch?v=fOoZXssFhqM",
    "spotify": null,
    "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-o-numero-e-o-espaco.png",
-   "mp3": null,
-   "duracao": null
+   "mp3": "faixas/o-numero-e-o-espaco.mp3",
+   "duracao": "3:07"
   },
   {
    "id": "organum-variante",
@@ -193,8 +193,8 @@
    "youtube": null,
    "spotify": null,
    "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-organum-variante.png",
-   "mp3": null,
-   "duracao": null
+   "mp3": "faixas/organum-variante.mp3",
+   "duracao": "2:33"
   },
   {
    "id": "tornadog",
@@ -209,8 +209,8 @@
    "youtube": "https://www.youtube.com/watch?v=fBY0u2rx5oo",
    "spotify": null,
    "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-tornadog.png",
-   "mp3": null,
-   "duracao": null
+   "mp3": "faixas/tornadog.mp3",
+   "duracao": "4:08"
   },
   {
    "id": "the-swan-miss",
@@ -225,8 +225,8 @@
    "youtube": "https://www.youtube.com/watch?v=hGwwrabBuRI",
    "spotify": null,
    "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-the-swan-miss.png",
-   "mp3": null,
-   "duracao": null
+   "mp3": "faixas/the-swan-miss.mp3",
+   "duracao": "3:01"
   },
   {
    "id": "bulltronics101",
@@ -257,8 +257,8 @@
    "youtube": null,
    "spotify": null,
    "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-talk.png",
-   "mp3": null,
-   "duracao": null
+   "mp3": "faixas/talk.mp3",
+   "duracao": "3:56"
   },
   {
    "id": "cosmovisao",
@@ -273,8 +273,8 @@
    "youtube": null,
    "spotify": null,
    "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-cosmovisao.png",
-   "mp3": null,
-   "duracao": null
+   "mp3": "faixas/cosmovisao.mp3",
+   "duracao": "5:48"
   },
   {
    "id": "radio-green",
@@ -289,8 +289,8 @@
    "youtube": null,
    "spotify": null,
    "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-radio-green.png",
-   "mp3": null,
-   "duracao": null
+   "mp3": "faixas/radio-green.mp3",
+   "duracao": "6:22"
   },
   {
    "id": "seta",
@@ -305,8 +305,8 @@
    "youtube": "https://www.youtube.com/watch?v=n2os3bv3Cck",
    "spotify": null,
    "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-seta.png",
-   "mp3": null,
-   "duracao": null
+   "mp3": "faixas/seta.mp3",
+   "duracao": "7:48"
   },
   {
    "id": "seriemas-e-elefantes",
@@ -321,8 +321,8 @@
    "youtube": null,
    "spotify": null,
    "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-seriemas-e-elefantes.png",
-   "mp3": null,
-   "duracao": null
+   "mp3": "faixas/seriemas-e-elefantes.mp3",
+   "duracao": "3:43"
   },
   {
    "id": "chronotopic",
@@ -337,8 +337,8 @@
    "youtube": null,
    "spotify": null,
    "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-chronotopic.png",
-   "mp3": null,
-   "duracao": null
+   "mp3": "faixas/chronotopic.mp3",
+   "duracao": "6:40"
   },
   {
    "id": "cazubilly",
@@ -369,8 +369,8 @@
    "youtube": null,
    "spotify": null,
    "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-jamdoodoo.png",
-   "mp3": null,
-   "duracao": null
+   "mp3": "faixas/jamdoodoo.mp3",
+   "duracao": "2:53"
   },
   {
    "id": "efeitos-do-tempo",
@@ -385,8 +385,8 @@
    "youtube": null,
    "spotify": null,
    "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-efeitos-do-tempo.png",
-   "mp3": null,
-   "duracao": null
+   "mp3": "faixas/efeitos-do-tempo.mp3",
+   "duracao": "6:33"
   },
   {
    "id": "do-as-you-wish",
@@ -401,8 +401,8 @@
    "youtube": "https://www.youtube.com/watch?v=pySdt5dTY08",
    "spotify": null,
    "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-do-as-you-wish.png",
-   "mp3": null,
-   "duracao": null
+   "mp3": "faixas/do-as-you-wish.mp3",
+   "duracao": "4:20"
   },
   {
    "id": "seduzir-se",
@@ -433,8 +433,8 @@
    "youtube": "https://www.youtube.com/watch?v=rsLLH1O7Ric",
    "spotify": "https://open.spotify.com/album/7ppGEXqrhVppghYlvbpNRP",
    "capa": null,
-   "mp3": null,
-   "duracao": null
+   "mp3": "faixas/timoneiro-so.mp3",
+   "duracao": "1:43"
   },
   {
    "id": "baddeneiro",
