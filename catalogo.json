@@ -2,7 +2,7 @@
   "nome": "Música de Braulio Garcia",
   "base": "https://braugar-maker.github.io/Musica/",
   "site": "https://brauliogarcia.com.br/musica/",
-  "gerado": "2026-09-16",
+  "gerado": "2026-09-18",
   "faixas": [
     {
       "id": "simbolica",
@@ -16,6 +16,7 @@
       "soundcloud": "https://soundcloud.com/braulio/simbolica",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-simbolica.png",
       "mp3": "faixas/simbolica.mp3",
       "duracao": "5:22"
@@ -32,6 +33,7 @@
       "soundcloud": "https://soundcloud.com/braulio/alfhebung",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-alfhebung.png",
       "mp3": "faixas/alfhebung.mp3",
       "duracao": "4:18"
@@ -48,6 +50,7 @@
       "soundcloud": "https://soundcloud.com/braulio/alfhebung-1",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-alfhebung-2-remix.png",
       "mp3": "faixas/alfhebung-2.mp3",
       "duracao": "5:25"
@@ -64,6 +67,7 @@
       "soundcloud": "https://soundcloud.com/braulio/mr-x",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-mr-x.png",
       "mp3": "faixas/mr-x.mp3",
       "duracao": "4:02"
@@ -80,6 +84,7 @@
       "soundcloud": "https://soundcloud.com/braulio/the-same-ship",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-the-same-ship.png",
       "mp3": "faixas/the-same-ship.mp3",
       "duracao": "3:15"
@@ -96,6 +101,7 @@
       "soundcloud": "https://soundcloud.com/braulio/ils-croiront",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-ils-croiront.png",
       "mp3": "faixas/ils-croiront.mp3",
       "duracao": "5:24"
@@ -112,6 +118,7 @@
       "soundcloud": "https://soundcloud.com/braulio/infinite",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-infinite.png",
       "mp3": "faixas/infinite.mp3",
       "duracao": "4:23"
@@ -128,6 +135,7 @@
       "soundcloud": "https://soundcloud.com/braulio/phonix",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-phonix.png",
       "mp3": "faixas/phonix.mp3",
       "duracao": "8:24"
@@ -144,6 +152,7 @@
       "soundcloud": "https://soundcloud.com/braulio/o-lobo-e-a-cobra",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-lupo-silvo.png",
       "mp3": "faixas/lupo-silvo.mp3",
       "duracao": "1:42"
@@ -160,6 +169,7 @@
       "soundcloud": "https://soundcloud.com/braulio/bea5",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-a-number-that-may-know-a-man.png",
       "mp3": "faixas/a-number-that-may-know-a-man.mp3",
       "duracao": "3:47"
@@ -176,6 +186,7 @@
       "soundcloud": "https://soundcloud.com/braulio/remendo",
       "youtube": "https://www.youtube.com/watch?v=fOoZXssFhqM",
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-o-numero-e-o-espaco.png",
       "mp3": "faixas/o-numero-e-o-espaco.mp3",
       "duracao": "3:07"
@@ -192,6 +203,7 @@
       "soundcloud": "https://soundcloud.com/braulio/4g5re",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-organum-variante.png",
       "mp3": "faixas/organum-variante.mp3",
       "duracao": "2:33"
@@ -208,6 +220,7 @@
       "soundcloud": "https://soundcloud.com/braulio/tornadog",
       "youtube": "https://www.youtube.com/watch?v=fBY0u2rx5oo",
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-tornadog.png",
       "mp3": "faixas/tornadog.mp3",
       "duracao": "4:08"
@@ -224,6 +237,7 @@
       "soundcloud": "https://soundcloud.com/braulio/bythecharm",
       "youtube": "https://www.youtube.com/watch?v=hGwwrabBuRI",
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-the-swan-miss.png",
       "mp3": "faixas/the-swan-miss.mp3",
       "duracao": "3:01"
@@ -240,6 +254,7 @@
       "soundcloud": "https://soundcloud.com/braulio/bulltronics101",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-bulltronics101.png",
       "mp3": "faixas/bulltronics101.mp3",
       "duracao": "6:20"
@@ -256,6 +271,7 @@
       "soundcloud": "https://soundcloud.com/braulio/talko",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-talk.png",
       "mp3": "faixas/talk.mp3",
       "duracao": "3:56"
@@ -272,6 +288,7 @@
       "soundcloud": "https://soundcloud.com/braulio/gandara",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-cosmovisao.png",
       "mp3": "faixas/cosmovisao.mp3",
       "duracao": "5:48"
@@ -288,6 +305,7 @@
       "soundcloud": "https://soundcloud.com/braulio/radiogreen",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-radio-green.png",
       "mp3": "faixas/radio-green.mp3",
       "duracao": "6:22"
@@ -304,6 +322,7 @@
       "soundcloud": "https://soundcloud.com/braulio/set",
       "youtube": "https://www.youtube.com/watch?v=n2os3bv3Cck",
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-seta.png",
       "mp3": "faixas/seta.mp3",
       "duracao": "7:48"
@@ -320,6 +339,7 @@
       "soundcloud": "https://soundcloud.com/braulio/perc",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-seriemas-e-elefantes.png",
       "mp3": "faixas/seriemas-e-elefantes.mp3",
       "duracao": "3:43"
@@ -336,6 +356,7 @@
       "soundcloud": "https://soundcloud.com/braulio/poytara",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-chronotopic.png",
       "mp3": "faixas/chronotopic.mp3",
       "duracao": "6:40"
@@ -352,6 +373,7 @@
       "soundcloud": "https://soundcloud.com/braulio/cazubilly",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-cazubilly.png",
       "mp3": "faixas/cazubilly.mp3",
       "duracao": "2:45"
@@ -368,6 +390,7 @@
       "soundcloud": "https://soundcloud.com/braulio/jamdoo",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-jamdoodoo.png",
       "mp3": "faixas/jamdoodoo.mp3",
       "duracao": "2:53"
@@ -384,25 +407,44 @@
       "soundcloud": "https://soundcloud.com/braulio/efeitos-do-tempo",
       "youtube": null,
       "spotify": null,
+      "wavlake": null,
       "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-efeitos-do-tempo.png",
       "mp3": "faixas/efeitos-do-tempo.mp3",
       "duracao": "6:33"
     },
     {
+      "id": "lady-scarecrow",
+      "titulo": "Lady Scarecrow",
+      "quem": "Braulio",
+      "grupo": "Braulio",
+      "ano": 2011,
+      "genero": "Synthpop",
+      "descricao": "Synthpop sombrio de 2011, restaurado em 2026: loops frios, bateria no tempo deles e uma voz que pergunta à dama espantalho qual é a razão do sorriso.",
+      "pagina": "https://brauliogarcia.com.br/musica/lady-scarecrow/",
+      "soundcloud": null,
+      "youtube": null,
+      "spotify": null,
+      "wavlake": "https://wavlake.com/album/924fae8a-dbad-41f5-87f6-a385a1c230ea",
+      "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-lady-scarecrow-2026.jpg",
+      "mp3": "faixas/lady-scarecrow.mp3",
+      "duracao": "5:40"
+    },
+    {
       "id": "do-as-you-wish",
-      "titulo": "Do as you wish",
+      "titulo": "Do As You Wish",
       "quem": "Braulio",
       "grupo": "Braulio",
       "ano": 2010,
-      "genero": "Ambient",
-      "descricao": "Começa cheia e vai afrouxando devagar por quatro minutos, sem pressa de terminar; grave presente, quase nenhuma batida.",
+      "genero": "Indie rock",
+      "descricao": "Indie rock entre o garage e o pós-punk: guitarras cruas, voz em inglês e um deus descalço que cura a dor com bondade; o fim se solta devagar.",
       "pagina": "https://brauliogarcia.com.br/musica/do-as-you-wish/",
       "soundcloud": "https://soundcloud.com/braulio/do-as-you-wish",
       "youtube": "https://www.youtube.com/watch?v=pySdt5dTY08",
       "spotify": null,
-      "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-do-as-you-wish.png",
+      "wavlake": "https://wavlake.com/album/c1ebc177-44d7-4d3d-a1a8-d7e94cdd069b",
+      "capa": "https://brauliogarcia.com.br/wp-content/uploads/2026/09/capa-do-as-you-wish-2026.jpg",
       "mp3": "faixas/do-as-you-wish.mp3",
-      "duracao": "4:20"
+      "duracao": "4:22"
     },
     {
       "id": "seduzir-se",
